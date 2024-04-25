@@ -1,0 +1,19 @@
+09:52:14.126 [main] INFO  - Open DoorWash Website
+09:52:14.799 [main] INFO  - Selecting Service Type
+09:52:17.623 [main] INFO  - Selecting SubCategory
+09:52:20.434 [main] INFO  - Click On Go For It Button
+09:52:27.086 [main] INFO  - Redirected to Car Service Details Page
+09:52:27.342 [main] INFO  - Capture Service Name
+09:52:28.786 [main] INFO  - Capture Booking Amount
+09:52:49.601 [main] INFO  - Navigate Back To Home Page
+09:53:01.462 [main] INFO  - Click On Our Centers
+09:53:07.305 [main] INFO  - Selecting First Set Of State and City
+09:53:11.855 [main] INFO  - Getting the list of Service Addresses
+09:53:12.165 [main] INFO  - Selecting Second Set Of State and City
+09:53:17.715 [main] INFO  - Getting the list of Service Addresses
+09:53:18.042 [main] INFO  - Selecting Third Set Of State and City
+09:53:23.545 [main] INFO  - Getting the list of Service Addresses
+09:53:57.866 [main] INFO  - Clicking On Register
+09:54:00.579 [main] INFO  - Entering User Details
+09:54:01.038 [main] INFO  - Clicking On Signup Button
+09:54:01.190 [main] INFO  - Displaying Error Message
